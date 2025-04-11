@@ -1,0 +1,11 @@
+{
+  "azureFunctions.deploySubpath": ".",
+  "azureFunctions.postDeployTask": "npm install (functions)",
+  "azureFunctions.projectLanguage": "JavaScript",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.projectLanguageModel": 4,
+  "azureFunctions.preDeployTask": "npm prune (functions)",
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/9f3c4776-dd73-493e-8601-df911af3c45f/resourceGroups/appsvc_linux_canadacentral/providers/Microsoft.Web/sites/telegram-aitm",
+  "appService.deploySubpath": "."
+}

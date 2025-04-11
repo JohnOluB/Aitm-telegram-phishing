@@ -1,0 +1,16 @@
+{
+  "name": "azureaitmfunction",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.0",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.7"
+  },
+  "main": "src/functions/*.js"
+}
